@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.advertise {
+    hieght: 150px;
+
+}
+
+.advertise img {
+    height: 100%;
+}
+
+.header {
+    postion: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 20px 15px 15px;
+    border-bottom: 1px solid #dddddd;
+    background: #fff;
+}
+
+.main-border {
+    display: flex;
+    justify-content: space-between;
+}
+
